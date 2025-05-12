@@ -6,7 +6,7 @@ As a student in AI & Data Science at Aivancity, I'm using Kaggle to sharpen my M
 ## 📁 Projects
 
 - 🛳️ [Titanic - Machine Learning from Disaster](./Titanic.ipynb)
-- 🏠 [House Prices - Advanced Regression Techniques](./HousePrices)
+- 🏠 [House Prices - Advanced Regression Techniques](./HousePrice.ipynb)
 
 ## ⚙️ Tools & Technologies
 
